@@ -4,3 +4,6 @@
 ### 개발 언어 : java
 
 ### cmd창 실행 버전
+
+자세한 내용은 밑 링크를 참고해주세요!
+https://velog.io/@rkdgyfla/Java-Project-220831221113
